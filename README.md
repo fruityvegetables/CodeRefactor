@@ -1,4 +1,4 @@
-# Mini Project
+# Code Refactoring
 
 Refactored some code as a first simple project.
 
